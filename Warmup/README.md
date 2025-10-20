@@ -1,4 +1,4 @@
-![Challenge screenshot](Warmup/Screenshot2025-10-20091945.png)
+![Challenge screenshot](Screenshot2025-10-20091945.png)
 
 Challenge Description
 
