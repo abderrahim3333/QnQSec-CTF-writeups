@@ -20,7 +20,7 @@ Opened the .wav file inside Sonic Visualizer: File → Import → alien.wav
 
 
 Add Waveform and Spectrogram Layer
-![Waveform](../image/Screenshot2025-10-20091617.png)          ![Spectogram](../image/Screenshot2025-10-20091639.png)
+![Waveform](../image/Screenshot2025-10-20091617.png)          ![Spectogram](../image/Screenshot2025-10-20091617.png)
 
 
 **After zooming into the right section of the audio, the flag text became visible inside the spectrogram!**
