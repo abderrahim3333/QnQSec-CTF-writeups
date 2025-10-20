@@ -20,7 +20,7 @@ Opened the .wav file inside Sonic Visualizer: File → Import → alien.wav
 
 
 Add Waveform and Spectrogram Layer
-![Waveform](image/Screenshot%202025-10-20%20091617.png)         
+![Waveform](<image/Screenshot 2025-10-20 091617.png>)        
 ![Spectrogram](image/Screenshot%202025-10-20%20091628.png)
 
 
