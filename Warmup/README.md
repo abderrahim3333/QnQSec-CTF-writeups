@@ -16,12 +16,12 @@ Sonic Visualizer — to visualize the frequency spectrum
 
 Opened the .wav file inside Sonic Visualizer: File → Import → alien.wav
 
-
+![Spectrogram](images/Screenshot%202025-10-20%20091628.png)
 
 
 Add Waveform and Spectrogram Layer
-![Waveform](images/Screenshot2025-10-20091617.png)        
-![Spectrogram](images/Screenshot%202025-10-20%20091628.png)
+![Waveform](images/Screenshot2025-10-091617.png)        
+
 
 
 **After zooming into the right section of the audio, the flag text became visible inside the spectrogram!**
