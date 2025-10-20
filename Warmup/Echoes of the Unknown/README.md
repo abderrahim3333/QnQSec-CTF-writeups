@@ -28,11 +28,11 @@ Since it was under *Steganography* and mentioned “random noise”, I suspected
 - Added **Waveform** and **Spectrogram** layers for deeper inspection.
 
 <p align="center">
-  <img src="images/Screenshot%202025-10-20%20091628.png" alt="Spectrogram" width="500">
+  <img src="../images/Screenshot%202025-10-20%20091628.png" alt="Spectrogram" width="500">
 </p>
 
 <p align="center">
-  <img src="images/Screenshot%202025-10-20%20091617.png" alt="Waveform" width="500">
+  <img src="../images/Screenshot%202025-10-20%20091617.png" alt="Waveform" width="500">
 </p>
 
 ---
@@ -43,7 +43,7 @@ After zooming into the **right section** of the spectrogram,
 A faint but readable **text flag** became visible embedded in the frequency visualization!
 
 <p align="center">
-  <img src="images/Screenshot%202025-10-20%20091651.png" alt="Visible Flag" width="600">
+  <img src="../images/Screenshot%202025-10-20%20091651.png" alt="Visible Flag" width="600">
 </p>
 
 ---
