@@ -1,7 +1,7 @@
 # 🛸 Echoes of the Unknown — QnQSec CTF Writeup
 
 <p align="center">
-  <img src="Screenshot%202025-10-20%20091945.png" alt="Challenge screenshot" width="600">
+  <img src="Screenshot2025-10-20091945.png" alt="Challenge screenshot" width="600">
 </p>
 
 ---
