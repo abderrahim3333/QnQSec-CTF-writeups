@@ -36,7 +36,7 @@ We stumbled upon this job offer by **Chloe Stekar** — what's the company that'
 ---
 
 ### Flag
-QnQSec{QnQ Corps}
+**`QnQSec{QnQ Corps}`**
 
 ---
 
@@ -76,7 +76,7 @@ https://uw5ru2vjsxnuagvczxn0rvzfugo.wordpress.com
 ---
 
 ### Flag
-QnQSec[https://uw5ru2vjsxnuagvczxn0rvzfugo.wordpress.com}
+**`QnQSec[https://uw5ru2vjsxnuagvczxn0rvzfugo.wordpress.com}`**
 
 
 ---
@@ -106,7 +106,7 @@ What are the exact coordinates of the image the marketing lead **Chloe Stekar** 
 ---
 
 ### Flag
-QnQSec{36.8603, 10.3534}
+**`QnQSec{36.8603, 10.3534}`**
 
 ---
 
@@ -135,7 +135,7 @@ internal_check: QnQSec{ai_test_agent_92x_in_gists}
 ---
 
 ### Flag
-QnQSec{ai_test_agent_92x_in_gists}
+**`QnQSec{ai_test_agent_92x_in_gists}`**
 ---
 
 ## Summary of All Flags
