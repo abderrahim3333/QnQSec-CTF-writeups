@@ -14,5 +14,20 @@ At first glance, the challenge file sounded like static noise. Since it was in t
 
 Sonic Visualizer — to visualize the frequency spectrum
 
+Opened the .wav file inside Sonic Visualizer: File → Import → alien.wav
+
+
+
+
+Add Waveform and Spectrogram Layer
+
+
+
+**After zooming into the right section of the audio, the flag text became visible inside the spectrogram!**
+
+
+`QnQSec{C4TCH_M3_1F_Y0U_C4N}`
+
+
 
 
