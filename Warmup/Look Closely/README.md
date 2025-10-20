@@ -24,6 +24,8 @@ When I opened the image, it looked like a simple glowing green text saying:
 QNQS3C
 ```
 
+![chal](chal.jpg)
+
 That immediately caught my attention — it could be a **password** or **encoded key**.
 
 
