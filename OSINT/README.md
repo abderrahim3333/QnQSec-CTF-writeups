@@ -57,20 +57,21 @@ Your job is to find the website.
 
 ### Solution
 1. Searched **QnQ Corps** online.  
-   ![qnqyt](images/qnqyt.png)
-2. Found their **YouTube channel (@QnQCorps)**.  
    ![googlecorps](images/googlecorps.png)
+2. Found their **YouTube channel (@QnQCorps)**.  
+   ![qnqyt](images/qnqyt.png)
 3. Discovered an **unlisted video** showing a WordPress site.  
    ![unlisted](images/unlistedvid.png)
 4. Paused the video to reveal the URL in the address bar:
 
    ![vid](images/vidqnq.png)
+   ![url](images/url.png)
 https://uw5ru2vjsxnuagvczxn0rvzfugo.wordpress.com
 
 
-5. The site describes “QnQ Corps” as a *shadow-tier provider of advanced digital solutions* — confirming the match.  
+6. The site describes “QnQ Corps” as a *shadow-tier provider of advanced digital solutions* — confirming the match.  
 
-![url](images/url.png)
+
 
 ---
 
@@ -82,7 +83,7 @@ QnQSec[https://uw5ru2vjsxnuagvczxn0rvzfugo.wordpress.com}
 
 ## Challenge 3 — The Picture (50)
 
-![picturepost](images/picturepost.png.png)
+![picturepost](images/thepicture.png)
 
 ### Description
 What are the exact coordinates of the image the marketing lead **Chloe Stekar** shared on her account?  
@@ -93,9 +94,12 @@ What are the exact coordinates of the image the marketing lead **Chloe Stekar** 
 ### Solution
 1. Located Chloe’s **Sept 30** post featuring a night photo of a ship with timestamp:  
 2025-09-10 00:18:13
-2. Matched the ship image to the **Global Sumud Flotilla** footage.  
-3. Checked the [Global Sumud Flotilla Tracker](https://globalsumudflotilla.org/tracker/).  
-4. Found vessel **“Alma (Deir al-Balah)”** at that time with position:  
+   ![picturepost](images/picturepost.png)
+3. Matched the ship image to the **Global Sumud Flotilla** footage.  
+4. Checked the [Global Sumud Flotilla Tracker](https://globalsumudflotilla.org/tracker/).  
+5. Found vessel **“Alma (Deir al-Balah)”** at that time with position:
+
+   36.8603, 10.3534 
 
 ![trackerscreen.png](images/trackerscreen.png)
 
@@ -108,7 +112,7 @@ QnQSec{36.8603, 10.3534}
 
 ## Challenge 4 — The Company’s Internals (140)
 
-![gist](images/gist.png)
+![gist](images/thecompanyinternals.png)
 
 ### Description
 Find the internal check code for the company’s **AI Agent’s API**.  
@@ -117,7 +121,8 @@ Find the internal check code for the company’s **AI Agent’s API**.
 ---
 
 ### Solution
-1. Found a GitHub profile: **`psychoresearcher`** — a developer at **QnQ Corps**.  
+1. Found a GitHub profile: **`psychoresearcher`** — a developer at **QnQ Corps**.
+   ![gist](images/thecompanyinternals.png)
 2. His Gist initially said the internal check code was made private.  
 3. Used **Wayback Machine** to view the archived Gist titled:  
    `AI-Agent-API.java`  
